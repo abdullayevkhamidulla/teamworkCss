@@ -1,0 +1,23 @@
+/* 
+    Main TeamLead => repo ochadi collaborators larni qo'shadi 
+    ular emaildan qabul qiladi
+    keyin qolgan userlar repo linkini copy qilib yangi fayl ochib
+    git clone ________link . enter
+
+    ///////////// kod olish
+    git pull
+    git merge origin/____branchnomi
+
+    ///////////// kod yuborish
+
+    git branch branchnomi => branch yaratish
+    git checkout branchnomi => branchga o'tish
+
+    git add .
+    git commit -m ""
+    git push 
+        git push --set-upstream origin branchnomi
+
+
+
+*/
